@@ -8,7 +8,7 @@ I'm a new **C++ Programmer** with experience in **computer hardware & electronic
 
 - **Programming:** C++
 - **Operating Systems:** Linux
-- **Hardware & Electronics:**  Simple Circuit design, PC components, embedded systems, PC & laptop repair
+- **Hardware & Electronics:**  Simple Circuit design, PC components, PC & laptop repair
 
 ---
 
