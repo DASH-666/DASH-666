@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm a **C++ Programmer** with experience in **Linux** and **computer hardware & electronics**.
+I'm a new **C++ Programmer** with experience in **computer hardware & electronics** and i am a **Linux** user.
 
 ---
 
@@ -14,6 +14,5 @@ I'm a **C++ Programmer** with experience in **Linux** and **computer hardware & 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DASH-666&show_icons=true)
 
