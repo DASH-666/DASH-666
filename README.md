@@ -4,8 +4,6 @@ I'm a new **C++ Programmer** with experience in **computer hardware & electronic
 
 ---
 
-## Skills
-
 - **Programming:** C++
 - **Operating Systems:** Linux
 - **Hardware & Electronics:**  Simple Circuit design, PC components, PC & laptop repair
